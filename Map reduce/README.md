@@ -1,0 +1,1 @@
+Use [mrjob](https://mrjob.readthedocs.io/en/latest/) to write MapReduce jobs in python and test it on a local hadoop cluster
